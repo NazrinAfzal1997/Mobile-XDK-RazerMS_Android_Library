@@ -13,32 +13,3 @@ Please update your bookmarks, clone URLs, and CI/CD configurations accordingly.
 All future updates, bug fixes, and feature enhancements will be published in the new repository.
 
 Thank you for your support.
-
----
-
-## Resources
-
-- GitHub:     https://github.com/RazerMS
-- Website:    https://merchant.razer.com/
-- Twitter:    https://twitter.com/Razer_MS
-- YouTube:    https://www.youtube.com/c/RazerMerchantServices
-- Facebook:   https://www.facebook.com/RazerMerchantServices/
-- Instagram:  https://www.instagram.com/RazerMerchantServices/
-
-
-Issues
-------------
-
-Submit issue to this repository or email to our support-sa@razer.com
-
-Support
--------
-
-Merchant Technical Support / Customer Care : support-sa@razer.com <br>
-Sales/Reseller Enquiry : sales-sa@razer.com <br>
-Marketing Campaign : marketing-sa@razer.com <br>
-Channel/Partner Enquiry : channel-sa@razer.com <br>
-Media Contact : media-sa@razer.com <br>
-R&D and Tech-related Suggestion : technical-sa@razer.com <br>
-Abuse Reporting : abuse-sa@razer.com
-
